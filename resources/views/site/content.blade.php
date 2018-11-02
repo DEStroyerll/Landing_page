@@ -216,10 +216,6 @@
                 <div class="col-lg-4 wow fadeInLeft">
                     <div class="contact_info">
                         <div class="detail">
-                            <h4>My address:</h4>
-                            <p>Ukraine, Kharkov, 61112 Saltovskoe highway, house 139V</p>
-                        </div>
-                        <div class="detail">
                             <h4>Call me:</h4>
                             <p>+38 (099) 184-49-22</p>
                         </div>
